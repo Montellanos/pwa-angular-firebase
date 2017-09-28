@@ -29,16 +29,16 @@ Con esto tenemos levantado nuestro servidor, podemos verificar ingresando desde 
 
 ### Creando el instalador de PWA
 Para poder crear el instalador de nuestra aplicación requerimos los siguientes recursos graficos, que son el icono de nuestra aplicación, los mismo deben ser en un formato especifico y con dimensiones especificas, se detalla a continuación:
-| Nombre | Tipo | Dimensiones (pixeles) |
-| ------ | ------ | ------ |
-| android-chrome-36x36 | image/png | 36x36 |
-| android-chrome-48x48 | image/png | 48x48 |
-| android-chrome-72x72 | image/png | 72x72 |
-| android-chrome-96x96 | image/png | 96x96 |
-| android-chrome-144x144 | image/png | 144x144 |
-| android-chrome-192x192 | image/png | 192x192 |
-| android-chrome-512x512 | image/png | 512x512 |
-| ios-safari-152x152 | image/png | 152x152 |
+| Nombre | Tipo | Dimensiones (pixeles) 
+| ------ | ------ | ------ 
+| android-chrome-36x36 | image/png | 36x36 
+| android-chrome-48x48 | image/png | 48x48 
+| android-chrome-72x72 | image/png | 72x72 
+| android-chrome-96x96 | image/png | 96x96 
+| android-chrome-144x144 | image/png | 144x144 
+| android-chrome-192x192 | image/png | 192x192 
+| android-chrome-512x512 | image/png | 512x512 
+| ios-safari-152x152 | image/png | 152x152 
 Se recomiendan iconos cuadrados con bordes redondeados, esto debido a que en el iphone todos los iconos se formatean y si es redondo por ejemplo se pone una sombra negra por detras
 **Todos estos archivos deben estar ubicados en la carpeta de recursos de angular, crear la carpeta llamada icons**, la ruta en este caso seria
 **pwa-angular-firebase/src/assets/icons**
