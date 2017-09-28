@@ -30,7 +30,7 @@ Con esto tenemos levantado nuestro servidor, podemos verificar ingresando desde 
 ### Creando el instalador de PWA
 Para poder crear el instalador de nuestra aplicación requerimos los siguientes recursos graficos, que son el icono de nuestra aplicación, los mismo deben ser en un formato especifico y con dimensiones especificas, se detalla a continuación:
 | Nombre | Tipo | Dimensiones (pixeles) 
-| ------ | ------ | ------ 
+| - | - |-
 | android-chrome-36x36 | image/png | 36x36 
 | android-chrome-48x48 | image/png | 48x48 
 | android-chrome-72x72 | image/png | 72x72 
